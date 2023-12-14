@@ -1,0 +1,29 @@
+.bg-container {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/todolistbg.png);
+    color: white;
+    text-align: center;
+    height:100vh;
+    background-size: cover;
+    font-size:30px;
+    font-family:Roboto;
+}
+.paragraph {
+    font-size:20px;   
+    text-align: center;
+    
+}
+.sub-heading {
+    text-align: left;
+    font-family: Roboto;
+    font-size: 25px;
+}
+.button {
+    height: 36px;
+    width: 135px;
+    background-color: orange;
+}
+.sub-paragraph {
+    text-align: center;
+    text-decoration: underline;
+    font-size:20px;
+}
